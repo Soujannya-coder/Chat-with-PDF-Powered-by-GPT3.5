@@ -1,0 +1,10 @@
+unstructured
+tiktoken
+pinecone-client==2.2.4
+pypdf
+openai
+langchain
+pandas
+numpy
+python-dotenv
+streamlit
